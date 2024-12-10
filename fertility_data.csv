@@ -1,5 +1,6 @@
-Age,Lifestyle,Fertility_Score,Pregnancy_Chance
-20,Active,90,85%
-25,Moderate,80,70%
-30,Sedentary,65,50%
-35,Active,55,40%
+Age,Lifestyle,Fertility_Score,Pregnancy_Chance,,Age,Marital Status,Menstrual Cycle Length,Cycle Regularity,Stress Levels,Smoking,Alcohol Consumption,Exercise Frequency,BMI,Ovulation Tracking Method,FAM Use,Previous Pregnancies,Previous Miscarriages,Family History of Infertility
+20,Active,90,85%,,28,1,28,1,0,0,0,1,Normal,3,1,1,0,0
+25,Moderate,80,70%,,32,0,31,1,1,0,-1,0,Overweight,1,0,0,0,1
+30,Sedentary,65,50%,,25,1,26,0,-1,1,1,0,Underweight,0,0,0,0,0
+35,Active,55,40%,,35,1,35,0,1,0,0,1,Obese,2,1,2,1,1
+,,,,,29,0,28,1,0,0,-1,1,Normal,0,0,0,0,0
