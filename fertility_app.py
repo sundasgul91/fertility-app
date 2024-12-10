@@ -5,7 +5,8 @@ import pandas as pd
 st.title("Fertility Predictor")
 
 # Load Data
-data = pd.read_csv("fertility_data.csv")
+url = "https://raw.githubusercontent.com/yourusername/yourrepo/main/fertility_data.csv"
+data = pd.read_csv(url)
 
 # Inputs
 age = st.slider("Select your age", 20, 40)
